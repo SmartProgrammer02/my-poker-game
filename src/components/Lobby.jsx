@@ -43,7 +43,7 @@ export const Lobby = ({
             <span className="text-3xl font-serif">♠️</span>
           </div>
           <h1 className="text-2xl md:text-3xl font-black font-['Cinzel'] gold-text tracking-wide uppercase">
-            Royal Hold'em
+            Smart Poker
           </h1>
           <p className="text-xs text-zinc-400 mt-1">
             Free Online Multiplayer Poker with Friends

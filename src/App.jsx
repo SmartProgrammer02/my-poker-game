@@ -127,7 +127,7 @@ export function App() {
     } catch (err) {
       console.error('Error creating room:', err);
       // Fallback direct join
-      const code = 'ROYAL' + Math.floor(Math.random() * 90 + 10);
+      const code = 'SMART' + Math.floor(Math.random() * 90 + 10);
       setRoomId(code);
       window.history.pushState({}, '', `?room=${code}`);
       socketRef.current.emit('join_room', { roomId: code, user });

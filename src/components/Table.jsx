@@ -43,7 +43,7 @@ export const Table = ({
               <span className="text-8xl font-serif text-amber-300 select-none">♠</span>
             </div>
             <span className="text-xs uppercase font-['Cinzel'] tracking-[0.3em] font-extrabold text-amber-200 mt-2">
-              ROYAL TEXAS HOLD'EM
+              SMART POKER
             </span>
           </div>
 
